@@ -3,7 +3,7 @@
 .nomedia
 
 # Godot-specific ignores
-.import/
+.uid/
 
 # Mono-specific ignores
 .mono/
